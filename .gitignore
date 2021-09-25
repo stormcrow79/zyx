@@ -22,6 +22,9 @@
 
 .byebug_history
 
+# assets
+/public/assets/
+
 # secrets
 /config/database.yml
 /config/elastic_apm.yml
